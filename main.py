@@ -1,5 +1,4 @@
 from flask import Flask, jsonify
-from threading import Thread
 from programy.clients.embed.datafile import EmbeddedDataFileBot
 import random
 
