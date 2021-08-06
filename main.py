@@ -1,6 +1,6 @@
-from flask import Flask, jsonify, os
+from flask import Flask, jsonify
 from programy.clients.embed.datafile import EmbeddedDataFileBot
-import random
+import random, os
 
 file = {
   'aiml': ['./storage/categories'],
