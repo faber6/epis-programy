@@ -1,0 +1,1319 @@
+{
+    "client_context": {
+        "clientid": "Console",
+        "userid": "testuser",
+        "botid": "bot",
+        "brainid": "brain",
+        "depth": 0
+    },
+    "questions": [
+        {
+            "srai": true,
+            "sentences": [
+                {
+                    "words": [
+                        "FABER"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:28:09",
+                        "sentence": "FABER",
+                        "response": "",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "FABER"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [FABER]",
+                                "words": [
+                                    "FABER"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "faber"
+                    ],
+                    "response": "Faber is the creator of Epis Bot. He lives on Earth.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:28:43",
+                        "sentence": "faber",
+                        "response": "Faber is the creator of Epis Bot. He lives on Earth.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [FABER]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "who",
+                        "is",
+                        "faber"
+                    ],
+                    "response": "Faber is the creator of Epis Bot. He lives on Earth.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:28:47",
+                        "sentence": "who is faber",
+                        "response": "Faber is the creator of Epis Bot. He lives on Earth.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [FABER]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "He",
+                                    "lives",
+                                    "on",
+                                    "Earth"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "where",
+                        "is",
+                        "faber"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:28:54",
+                        "sentence": "where is faber",
+                        "response": "",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [WHERE]",
+                                "words": [
+                                    "where"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [IS]",
+                                "words": [
+                                    "is"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [FABER]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "He",
+                                    "lives",
+                                    "on",
+                                    "Earth"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "faber"
+                    ],
+                    "response": "Faber is the creator of Epis Bot. He lives on Earth.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:29:52",
+                        "sentence": "faber",
+                        "response": "Faber is the creator of Epis Bot. He lives on Earth.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [FABER]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "where",
+                        "is",
+                        "faber"
+                    ],
+                    "response": "Faber is on Earth.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:29:56",
+                        "sentence": "where is faber",
+                        "response": "Faber is on Earth.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [WHERE]",
+                                "words": [
+                                    "where"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [IS]",
+                                "words": [
+                                    "is"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [FABER]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "He",
+                                    "lives",
+                                    "on",
+                                    "Earth"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "what",
+                        "is",
+                        "faber"
+                    ],
+                    "response": "I don't know what faber is for.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:30:05",
+                        "sentence": "what is faber",
+                        "response": "I don't know what faber is for.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [IS]",
+                                "words": [
+                                    "is"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Faber",
+                                    "is",
+                                    "on",
+                                    "Earth"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "what",
+                        "is",
+                        "faber"
+                    ],
+                    "response": "Faber is the creator of Epis Bot. He lives on Earth.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:30:42",
+                        "sentence": "what is faber",
+                        "response": "Faber is the creator of Epis Bot. He lives on Earth.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [IS]",
+                                "words": [
+                                    "is"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [FABER]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "I",
+                                    "don",
+                                    "t",
+                                    "know",
+                                    "what",
+                                    "faber",
+                                    "is",
+                                    "for"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "who",
+                        "is",
+                        "faber"
+                    ],
+                    "response": "Some famous celebrity, right?",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:30:46",
+                        "sentence": "who is faber",
+                        "response": "Some famous celebrity, right?",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "He",
+                                    "lives",
+                                    "on",
+                                    "Earth"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "faber"
+                    ],
+                    "response": "Faber is the creator of Epis Bot. He lives on Earth.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:30:48",
+                        "sentence": "faber",
+                        "response": "Faber is the creator of Epis Bot. He lives on Earth.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [FABER]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Some",
+                                    "famous",
+                                    "celebrity",
+                                    "right"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "who",
+                        "is",
+                        "faber"
+                    ],
+                    "response": "I remember faces better than names.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:30:51",
+                        "sentence": "who is faber",
+                        "response": "I remember faces better than names.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "He",
+                                    "lives",
+                                    "on",
+                                    "Earth"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "what",
+                        "is",
+                        "faber"
+                    ],
+                    "response": "Faber is the creator of Epis Bot.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:32:00",
+                        "sentence": "what is faber",
+                        "response": "Faber is the creator of Epis Bot.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [IS]",
+                                "words": [
+                                    "is"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [FABER]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "I",
+                                    "remember",
+                                    "faces",
+                                    "better",
+                                    "than",
+                                    "names"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "who",
+                        "is",
+                        "faber"
+                    ],
+                    "response": "He is my botmaster!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:32:05",
+                        "sentence": "who is faber",
+                        "response": "He is my botmaster!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [FABER]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Faber",
+                                    "is",
+                                    "the",
+                                    "creator",
+                                    "of",
+                                    "Epis",
+                                    "Bot"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "faber"
+                    ],
+                    "response": "Faber is the creator of Epis Bot. He lives on Earth.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:32:08",
+                        "sentence": "faber",
+                        "response": "Faber is the creator of Epis Bot. He lives on Earth.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [FABER]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "He",
+                                    "is",
+                                    "my",
+                                    "botmaster"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "how",
+                        "is",
+                        "faber"
+                    ],
+                    "response": "Fine as far as I know.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:32:12",
+                        "sentence": "how is faber",
+                        "response": "Fine as far as I know.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [HOW]",
+                                "words": [
+                                    "how"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [IS]",
+                                "words": [
+                                    "is"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "faber"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "He",
+                                    "lives",
+                                    "on",
+                                    "Earth"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "how",
+                        "personality",
+                        "faber",
+                        "is"
+                    ],
+                    "response": "I am not sure if I can quantify the answer. <br></br> I'll ask around and get back to you.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:32:23",
+                        "sentence": "how personality faber is",
+                        "response": "I am not sure if I can quantify the answer. <br></br> I'll ask around and get back to you.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [HOW]",
+                                "words": [
+                                    "how"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "personality",
+                                    "faber",
+                                    "is"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Fine",
+                                    "as",
+                                    "far",
+                                    "as",
+                                    "I",
+                                    "know"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "Good morning.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:37:01",
+                        "sentence": "hi",
+                        "response": "Good morning.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "personality",
+                                    "faber",
+                                    "is"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "I",
+                                    "ll",
+                                    "ask",
+                                    "around",
+                                    "and",
+                                    "get",
+                                    "back",
+                                    "to",
+                                    "you"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "tell",
+                        "me",
+                        "how",
+                        "erotic",
+                        "you",
+                        "are"
+                    ],
+                    "response": "How much do you think erotic i2 am is? <br></br> Do a web search for it.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "13/07/2020, 00:37:10",
+                        "sentence": "tell me how erotic you are",
+                        "response": "How much do you think erotic i2 am is? <br></br> Do a web search for it.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [TELL]",
+                                "words": [
+                                    "tell"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HOW]",
+                                "words": [
+                                    "how"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "erotic",
+                                    "you",
+                                    "are"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "personality",
+                                    "faber",
+                                    "is"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Good",
+                                    "morning"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "erotic"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "\u00ea"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hiiiiiiiii"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        }
+    ],
+    "max_histories": 100,
+    "properties": {
+        "topic": "erotic i am",
+        "positivity": "0.0",
+        "subjectivity": "0.5",
+        "it": "",
+        "dayphase": "Morning"
+    }
+}

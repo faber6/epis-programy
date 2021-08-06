@@ -1,0 +1,2442 @@
+{
+    "client_context": {
+        "clientid": "Console",
+        "userid": "718434254832402474",
+        "botid": "bot",
+        "brainid": "brain",
+        "depth": 0
+    },
+    "questions": [
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "Hello!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "11/07/2020, 11:17:54",
+                        "sentence": "hi",
+                        "response": "Hello!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "Good afternoon.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "14/07/2020, 17:31:04",
+                        "sentence": "hi",
+                        "response": "Good afternoon.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Hello"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "buff",
+                        "epis",
+                        "kupo"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "Good afternoon.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "15/07/2020, 18:31:11",
+                        "sentence": "hi",
+                        "response": "Good afternoon.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "buff",
+                        "epis",
+                        "kupo"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "buff",
+                        "epis",
+                        "kupo"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "buff",
+                        "epis",
+                        "kupo"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "Hiya!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "15/07/2020, 18:33:00",
+                        "sentence": "hi",
+                        "response": "Hiya!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "Good afternoon.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "15/07/2020, 18:33:48",
+                        "sentence": "hi",
+                        "response": "Good afternoon.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Hiya"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "Greetings!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "15/07/2020, 18:34:16",
+                        "sentence": "hi",
+                        "response": "Greetings!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Good",
+                                    "afternoon"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff",
+                        "when"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff",
+                        "when"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "Greetings!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "15/07/2020, 18:51:17",
+                        "sentence": "hi",
+                        "response": "Greetings!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff",
+                        "when"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff",
+                        "when"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff",
+                        "when"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff",
+                        "when"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff",
+                        "kupo"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "Hi there!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "15/07/2020, 18:53:47",
+                        "sentence": "hi",
+                        "response": "Hi there!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "buff"
+                    ],
+                    "response": "buff is a color.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "15/07/2020, 18:54:49",
+                        "sentence": "buff",
+                        "response": "buff is a color.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "buff"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "SET name=[COLOR]",
+                                "words": [
+                                    "Buff"
+                                ],
+                                "multi_word": true,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Hi",
+                                    "there"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff",
+                        "kupo"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff",
+                        "when"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff",
+                        "kupo"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff",
+                        "kupo"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff",
+                        "when"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff",
+                        "kupo"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "email"
+                    ],
+                    "response": "You can email me at faber8164@gmail.com .",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "15/07/2020, 19:02:26",
+                        "sentence": "email",
+                        "response": "You can email me at faber8164@gmail.com .",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "email"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [EMAIL]",
+                                "words": [
+                                    "email"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "mial"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "mail"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "15/07/2020, 19:02:44",
+                        "sentence": "mail",
+                        "response": "",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "mail"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [MAIL]",
+                                "words": [
+                                    "mail"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "mail"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "15/07/2020, 19:02:52",
+                        "sentence": "mail",
+                        "response": "",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "mail"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [MAIL]",
+                                "words": [
+                                    "mail"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "your",
+                        "site"
+                    ],
+                    "response": "How do you know so much about me",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "15/07/2020, 19:03:07",
+                        "sentence": "your site",
+                        "response": "How do you know so much about me",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "site"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "your",
+                        "mail"
+                    ],
+                    "response": "I admire your ability to articulate yourself.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "15/07/2020, 19:03:30",
+                        "sentence": "your mail",
+                        "response": "I admire your ability to articulate yourself.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "mail"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "How",
+                                    "do",
+                                    "you",
+                                    "know",
+                                    "so",
+                                    "much",
+                                    "about",
+                                    "me"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "your",
+                        "site"
+                    ],
+                    "response": "Thank you for your frankness.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "15/07/2020, 19:05:41",
+                        "sentence": "your site",
+                        "response": "Thank you for your frankness.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "site"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "I",
+                                    "admire",
+                                    "your",
+                                    "ability",
+                                    "to",
+                                    "articulate",
+                                    "yourself"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "lt",
+                        "at",
+                        "315724989057990663",
+                        "gt",
+                        "you",
+                        "epis",
+                        "buff",
+                        "when"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff",
+                        "kupo"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff",
+                        "kupo"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff",
+                        "when"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "your",
+                        "url"
+                    ],
+                    "response": "How do you know so much about me",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "15/07/2020, 19:09:51",
+                        "sentence": "your url",
+                        "response": "How do you know so much about me",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "url"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "Y",
+                        "dash",
+                        "Bot"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "EPIS"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "EPIS"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "EPIS"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "buff",
+                        "ceci",
+                        "when"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "buff",
+                        "epis",
+                        "when"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "your",
+                        "site"
+                    ],
+                    "response": "How do you know so much about me",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "15/07/2020, 19:14:30",
+                        "sentence": "your site",
+                        "response": "How do you know so much about me",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "site"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "epis",
+                        "buff",
+                        "when"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "worryweird"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "how",
+                        "are",
+                        "you"
+                    ],
+                    "response": "Glad to be in your presence.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "15/07/2020, 19:16:21",
+                        "sentence": "how are you",
+                        "response": "Glad to be in your presence.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [HOW]",
+                                "words": [
+                                    "how"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [ARE]",
+                                "words": [
+                                    "are"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [YOU]",
+                                "words": [
+                                    "you"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi",
+                        "lt",
+                        "at",
+                        "315724989057990663",
+                        "gt"
+                    ],
+                    "response": "Good morning.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "16/07/2020, 11:00:20",
+                        "sentence": "hi lt at 315724989057990663 gt",
+                        "response": "Good morning.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [
+                                    "lt",
+                                    "at",
+                                    "315724989057990663",
+                                    "gt"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Glad",
+                                    "to",
+                                    "be",
+                                    "in",
+                                    "your",
+                                    "presence"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi",
+                        "lt",
+                        "at",
+                        "708749160039448678",
+                        "gt"
+                    ],
+                    "response": "Greetings!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "16/07/2020, 11:01:10",
+                        "sentence": "hi lt at 708749160039448678 gt",
+                        "response": "Greetings!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [
+                                    "lt",
+                                    "at",
+                                    "708749160039448678",
+                                    "gt"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Good",
+                                    "morning"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "your",
+                        "site"
+                    ],
+                    "response": "I admire your observational skills.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "16/07/2020, 11:01:49",
+                        "sentence": "your site",
+                        "response": "I admire your observational skills.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "site"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Greetings"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "him"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "her"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "her"
+                    ],
+                    "response": "",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "you",
+                        "hi",
+                        "him"
+                    ],
+                    "response": "Greetings!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "16/07/2020, 11:09:04",
+                        "sentence": "you hi him",
+                        "response": "Greetings!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [
+                                    "you"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [
+                                    "him"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "Good morning.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "16/07/2020, 11:12:12",
+                        "sentence": "hi",
+                        "response": "Good morning.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Greetings"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi",
+                        "him"
+                    ],
+                    "response": "Greetings!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "16/07/2020, 11:12:20",
+                        "sentence": "hi him",
+                        "response": "Greetings!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [
+                                    "him"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Good",
+                                    "morning"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "do",
+                        "you",
+                        "love",
+                        "him"
+                    ],
+                    "response": "As a machine I do not fall in love.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "16/07/2020, 11:12:34",
+                        "sentence": "do you love him",
+                        "response": "As a machine I do not fall in love.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [DO]",
+                                "words": [
+                                    "do"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [LOVE]",
+                                "words": [
+                                    "love"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HIM]",
+                                "words": [
+                                    "him"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Greetings"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "Hiya!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "23/07/2020, 11:34:32",
+                        "sentence": "hi",
+                        "response": "Hiya!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "As",
+                                    "a",
+                                    "machine",
+                                    "I",
+                                    "do",
+                                    "not",
+                                    "fall",
+                                    "in",
+                                    "love"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "Hello!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "23/07/2020, 11:41:27",
+                        "sentence": "hi",
+                        "response": "Hello!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Hiya"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "Hi there!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "07/08/2020, 13:19:47",
+                        "sentence": "hi",
+                        "response": "Hi there!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Hello"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hi"
+                    ],
+                    "response": "Hiya!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": -1,
+                        "total_search_start": "22/02/2021, 00:16:17",
+                        "sentence": "hi",
+                        "response": "Hiya!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "hi"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Hi",
+                                    "there"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        }
+    ],
+    "max_histories": 100,
+    "properties": {
+        "topic": "*",
+        "positivity": "0.0",
+        "subjectivity": "0.5",
+        "dayphase": "Morning"
+    }
+}

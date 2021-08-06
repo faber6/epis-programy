@@ -1,0 +1,494 @@
+{
+    "client_context": {
+        "clientid": "Console",
+        "userid": "Console",
+        "botid": "bot",
+        "brainid": "brain",
+        "depth": 0
+    },
+    "questions": [
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "GU"
+                    ],
+                    "response": "Give me time to finish processing.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "09/07/2020, 11:54:53",
+                        "sentence": "GU",
+                        "response": "Give me time to finish processing.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "GU"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "__TOPIC__",
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "HI"
+                    ],
+                    "response": "Hi nice to see you!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "09/07/2020, 11:54:56",
+                        "sentence": "HI",
+                        "response": "Hi nice to see you!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [HI]",
+                                "words": [
+                                    "HI"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Give",
+                                    "me",
+                                    "time",
+                                    "to",
+                                    "finish",
+                                    "processing"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "WHAT",
+                        "IS",
+                        "YOUR",
+                        "NAMER"
+                    ],
+                    "response": "Are you asking about my NAMER ?",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "09/07/2020, 11:55:05",
+                        "sentence": "WHAT IS YOUR NAMER",
+                        "response": "Are you asking about my NAMER ?",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [IS]",
+                                "words": [
+                                    "IS"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "NAMER"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Hi",
+                                    "nice",
+                                    "to",
+                                    "see",
+                                    "you"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "WHAT",
+                        "IS",
+                        "YOUR",
+                        "NAME"
+                    ],
+                    "response": "My name is KeiffBot .",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "09/07/2020, 11:55:10",
+                        "sentence": "WHAT IS YOUR NAME",
+                        "response": "My name is KeiffBot .",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [IS]",
+                                "words": [
+                                    "IS"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [NAME]",
+                                "words": [
+                                    "NAME"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Are",
+                                    "you",
+                                    "asking",
+                                    "about",
+                                    "my",
+                                    "NAMER"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "HOW",
+                        "CAN",
+                        "I",
+                        "MODIFY",
+                        "YOU"
+                    ],
+                    "response": "Just keep talking to me as long as you can.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "09/07/2020, 11:55:20",
+                        "sentence": "HOW CAN I MODIFY YOU",
+                        "response": "Just keep talking to me as long as you can.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [HOW]",
+                                "words": [
+                                    "HOW"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [CAN]",
+                                "words": [
+                                    "CAN"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [I]",
+                                "words": [
+                                    "I"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "MODIFY"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [YOU]",
+                                "words": [
+                                    "YOU"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "My",
+                                    "name",
+                                    "is",
+                                    "KeiffBot"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "NO"
+                    ],
+                    "response": "Um.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "09/07/2020, 11:55:25",
+                        "sentence": "NO",
+                        "response": "Um.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [NO]",
+                                "words": [
+                                    "NO"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Just",
+                                    "keep",
+                                    "talking",
+                                    "to",
+                                    "me",
+                                    "as",
+                                    "long",
+                                    "as",
+                                    "you",
+                                    "can"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "HOW",
+                        "IS",
+                        "KEIFF"
+                    ],
+                    "response": "Fine as far as I know.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "09/07/2020, 11:55:32",
+                        "sentence": "HOW IS KEIFF",
+                        "response": "Fine as far as I know.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [HOW]",
+                                "words": [
+                                    "HOW"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [IS]",
+                                "words": [
+                                    "IS"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "KEIFF"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Um"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        }
+    ],
+    "max_histories": 100,
+    "properties": {
+        "topic": "*",
+        "positivity": "0.0",
+        "subjectivity": "0.5"
+    }
+}

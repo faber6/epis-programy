@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+    <category>
+        <pattern>WHERE IS FABER</pattern>
+        <template>
+        Faber is on Earth.
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS FABER</pattern>
+        <template>
+        Faber is the creator of Epis Bot.
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHO IS FABER</pattern>
+        <template>
+        He is my botmaster!
+        </template>
+    </category>
+    
+    <category>
+        <pattern>FABER</pattern>
+        <template>
+        Faber is the creator of Epis Bot. He lives on Earth.
+        </template>
+    </category>
+
+ </aiml>
