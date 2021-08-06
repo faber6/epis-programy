@@ -1,6 +1,6 @@
 # epis-programy
-Programy API for Epis Bot
-Hosting on [Heroku](epis-programy.herokuapp.com)
+####Programy API for Epis Bot
+####Hosting on [Heroku](epis-programy.herokuapp.com)
 
 ## Installation
 1. Install requirements from requirements.txt:
