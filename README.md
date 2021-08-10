@@ -1,7 +1,7 @@
 # epis-programy
 Programy API for Epis Bot
 
-## Installation
+## Installations
 1. Install requirements from requirements.txt:
   * `pip install -r requirements.txt`
 2. Edit files in './config'.
