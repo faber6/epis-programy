@@ -12,6 +12,7 @@
 ## Usage
 Request the API:
 ```python
+import requests
 api = requests.get(f'http://epis-programy.herokuapp.com/context/<random_string>/question/[<question>]')
 ```
 Get response:
